@@ -1,0 +1,14 @@
+{
+    "name": "puppeteer-demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:chenyeah/puppeteer-demo.git",
+    "author": "chenyeah <yuyehack@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "demo1": "node ./src/demo1"
+    },
+    "dependencies": {
+        "puppeteer": "^1.6.1"
+    }
+}
