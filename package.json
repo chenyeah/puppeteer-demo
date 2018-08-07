@@ -6,7 +6,8 @@
     "author": "chenyeah <yuyehack@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "demo1": "node ./src/demo1"
+        "demo1": "node ./src/demo1",
+        "demo2": "node ./src/demo2"
     },
     "dependencies": {
         "puppeteer": "^1.6.1"
